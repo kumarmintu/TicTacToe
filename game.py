@@ -14,3 +14,4 @@ elif(current_game.result == 1):
     print('First player won!')
 else:
     print('Second player won!')
+#you will get your answer, Enjoy the Game!!!
